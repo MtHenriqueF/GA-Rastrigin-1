@@ -11,4 +11,6 @@ https://github.com/PasaOpasen/OptimizationTestFunctions#rastrigin
 https://github.com/PasaOpasen/geneticalgorithm2
 
 Outra biblioteca de GA.
+
 https://pypi.org/project/deap/
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.differential_evolution.html
