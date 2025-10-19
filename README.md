@@ -52,7 +52,7 @@ E para atingir o objetivo do trabalho (menor número de gerações) considerei u
 A evolução diferencial, no entanto se demonstrou bem melhor, com 14 gerações e 300 indivíduos em média.
 
 usando os parâmetros:
-
+```python
 n_dimensao = 2
 params_de_para_poda = {
     'maxiter': 14,
@@ -60,3 +60,4 @@ params_de_para_poda = {
     'strategy': 'best1bin',
     'tol': 0,
 }
+```
